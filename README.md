@@ -8,3 +8,5 @@ rewake e2e probe line
 lifecycle probe
 
 serve-shim fix probe
+
+clean-build confirm
